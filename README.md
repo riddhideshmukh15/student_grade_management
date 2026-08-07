@@ -80,6 +80,4 @@ python student_grade_management.py
 
 GitHub: https://github.com/riddhideshmukh15
 
----
 
-⭐ If you found this project helpful, consider giving it a star!
